@@ -3,15 +3,24 @@
     "name": "Crypt+",
     "description": "Шифрование данных",
     "imageUrl": "https://raw.githubusercontent.com/newcharm17/_0R_Store/main/Crypt_logo.png",
-    "formName": "Load1"
-  }
-]
-[
+    "formName": "Load1",
+    "mainExe": "Crypt+.exe",
+    "files": [
+      "Crypt+.exe",
+      "Crypt+.dll",
+      "Crypt+.deps.json",
+      "Crypt+.runtimeconfig.json",
+      "Crypt+.pdb"
+    ]
+  },
   {
     "name": "TybeDiffuser",
     "description": "Аркады",
     "imageUrl": "https://raw.githubusercontent.com/newcharm17/_0R_Store/main/TybeDiffuser_logo.png",
-    "formName": "Load1"
+    "formName": "Load1",
+    "mainExe": "TybeDiffuser.exe",
+    "files": [
+      "TybeDiffuser.exe"
+    ]
   }
 ]
-
